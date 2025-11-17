@@ -1,3 +1,4 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://www.blue.cc/logo/logo.svg" alt="Blue Logo" width="300" />
+</p>
 
-This is a test
