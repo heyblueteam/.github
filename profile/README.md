@@ -14,10 +14,10 @@
 
 | Repository | Category | Description | Visibility |
 |------------|----------|-------------|------------|
-| [api](https://github.com/heyblueteam/api) | Core Platform | Core API powering the Blue platform | Private |
-| [app](https://github.com/heyblueteam/app) | Core Platform | Blue web application | Private |
-| [background](https://github.com/heyblueteam/background) | Core Platform | Background job processing services | Private |
-| [infra](https://github.com/heyblueteam/infra) | Core Platform | Infrastructure-as-code configuration | Private |
+| [api](https://github.com/heyblueteam/api) | Core | Core API powering the Blue platform | Private |
+| [app](https://github.com/heyblueteam/app) | Core | Blue web application | Private |
+| [background](https://github.com/heyblueteam/background) | Core | Background job processing services | Private |
+| [infra](https://github.com/heyblueteam/infra) | Core | Infrastructure-as-code configuration | Private |
 | [ios](https://github.com/heyblueteam/ios) | Mobile | Blue iOS mobile application | Private |
 | [android](https://github.com/heyblueteam/android) | Mobile | Blue Android mobile application | Private |
 | [cli](https://github.com/heyblueteam/cli) | SDK | Command line interface for AI agents and scripts to programmatically interact with Blue | Public |
