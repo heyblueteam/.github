@@ -20,9 +20,9 @@
 | [infra](https://github.com/heyblueteam/infra) | Core Platform | Infrastructure-as-code configuration | Private |
 | [ios](https://github.com/heyblueteam/ios) | Mobile | Blue iOS mobile application | Private |
 | [android](https://github.com/heyblueteam/android) | Mobile | Blue Android mobile application | Private |
-| [cli](https://github.com/heyblueteam/cli) | Dev Tools & SDKs | Command line interface for AI agents and scripts to programmatically interact with Blue | Public |
-| [python-sdk](https://github.com/heyblueteam/python-sdk) | Dev Tools & SDKs | Python SDK for integrating with the Blue API | Public |
-| [support-agent](https://github.com/heyblueteam/support-agent) | Dev Tools & SDKs | AI-powered customer support automation | Public |
+| [cli](https://github.com/heyblueteam/cli) | SDK | Command line interface for AI agents and scripts to programmatically interact with Blue | Public |
+| [python-sdk](https://github.com/heyblueteam/python-sdk) | SDK | Python SDK for integrating with the Blue API | Public |
+| [support-agent](https://github.com/heyblueteam/support-agent) | Tool| AI-powered customer support automation | Public |
 | [forms](https://github.com/heyblueteam/forms) | Utility | Form builder and management | Private |
 | [files](https://github.com/heyblueteam/files) | Utility | File management services | Private |
 | [meilisearch-docker-render](https://github.com/heyblueteam/meilisearch-docker-render) | Utility | Deploy Meilisearch to render.com | Public |
